@@ -45,7 +45,10 @@ insert into tbCourse value
 ("DSE","Software Engineering","BSC Software Engineering");
 
 insert into tbStudent values 
-("S001","First Year","DSE","Senidu","Senanayake","Male","2003-06-09");
+("S001","First Year","DSE","Senidu","Senanayake","Male","2003-06-09"),
+("S002","First Year","DNE","Nipuni","Perera","Female","2003-05-25"),
+("S003","First Year","DSE","Kash","Silva","Male","2004-11-19"),
+("S004","First Year","DNE","Haran","Jayawardhana","Male","2006-03-14");
 
 insert into tbGrade Values 
 ("S001","First Year","DSE",4.0,3.8);
