@@ -13,7 +13,6 @@ create table tbCourse(
     Description varchar(100),
     Degree varchar(100)
 );
-drop table tbGrade;
 
 create table tbStudent (
 	
