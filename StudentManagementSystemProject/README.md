@@ -10,7 +10,11 @@ A Java-based Student Management System with Swing for GUI, JDBC for database int
 - Generate reports
 
 ## Requirements
+- **Java with Maven Apllication
 - **Java Version:** 22.0.2
 - **MySQL Version:** 8.0+
 - **JDBC Driver:** mysql-connector-java-8.0.33.jar
 - **Reporting Library:** jasperreports-7.0.1.jar
+- **flatlaf-3.5.4.jar
+- **jasperreports-fonts-7.0.1.jar
+- **jasperreports-javaflow-7.0.1.jar
